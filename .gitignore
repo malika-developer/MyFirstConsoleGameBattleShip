@@ -1,0 +1,26 @@
+# Visual Studio cache and build folders
+.vs/
+x64/
+Debug/
+Release/
+
+# Intermediate build files
+*.ipch
+*.pdb
+*.obj
+*.tlog
+*.ilk
+*.iobj
+*.ipdb
+
+# Executables and binaries
+*.exe
+*.dll
+
+# Databases and logs
+*.VC.db
+*.db
+*.log
+
+# Misc
+*.cache
