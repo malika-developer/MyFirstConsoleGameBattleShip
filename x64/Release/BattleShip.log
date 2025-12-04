@@ -1,0 +1,28 @@
+﻿  AboutAuthor.cpp
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\AboutAuthor.cpp(18,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\AboutAuthor.cpp(38,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  BattleShipMain.cpp
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\BattleShipMain.cpp(10,1): warning C4005: RAND: изменение макроопределения
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\Win10.h(13,1): message : см. предыдущее определение "RAND"
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\BattleShipMain.cpp(53,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\BattleShipMain.cpp(58,44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\BattleShipMain.cpp(70,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\BattleShipMain.cpp(74,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Menu.cpp
+  Rules.cpp
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\Rules.cpp(18,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\Rules.cpp(29,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\Rules.cpp(41,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Settings.cpp
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\Settings.cpp(18,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  StartGame.cpp
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\StartGame.cpp(204,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\StartGame.cpp(205,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\StartGame.cpp(206,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\StartGame.cpp(207,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Win10.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 233 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  BattleShip.vcxproj -> D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\x64\Release\BattleShip.exe

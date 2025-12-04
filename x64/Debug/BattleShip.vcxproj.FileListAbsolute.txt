@@ -1,0 +1,2 @@
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip\x64\Debug\BattleShip.exe
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\x64\Debug\BattleShip.exe

@@ -1,0 +1,6 @@
+﻿  StartGame.cpp
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\StartGame.cpp(204,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\StartGame.cpp(205,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\StartGame.cpp(206,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\StartGame.cpp(207,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  BattleShip.vcxproj -> D:\Malika\STEP Academy\C++\Первая игра\BattleShip — LAT\x64\Debug\BattleShip.exe
