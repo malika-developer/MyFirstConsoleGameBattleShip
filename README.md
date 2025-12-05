@@ -26,7 +26,7 @@ Everything — from ASCII graphics to menus, animations, and game logic — was 
 
 ## 🖥 Screenshots
 
-<img width="1309" height="860" alt="Снимок экрана 2025-12-05 041316" src="https://github.com/user-attachments/assets/d25cd128-abfe-436e-b730-8cb83981a7c2" />
+<img width="1336" height="884" alt="Снимок экрана 2025-12-05 040826" src="https://github.com/user-attachments/assets/4bc24f25-3470-4ec1-b6f6-b214fd079ab1" />
 
 <img width="1324" height="869" alt="Снимок экрана 2025-12-05 040848" src="https://github.com/user-attachments/assets/edcb93f6-0930-45bb-9e34-fc15ea2998c8" />
 
@@ -93,7 +93,7 @@ ASCII-графика, меню, анимации, логика игры — вс
 
 ## 🖥 Скриншоты
 
-<img width="1309" height="860" alt="Снимок экрана 2025-12-05 041316" src="https://github.com/user-attachments/assets/d25cd128-abfe-436e-b730-8cb83981a7c2" />
+<img width="1336" height="884" alt="Снимок экрана 2025-12-05 040826" src="https://github.com/user-attachments/assets/4bc24f25-3470-4ec1-b6f6-b214fd079ab1" />
 
 <img width="1324" height="869" alt="Снимок экрана 2025-12-05 040848" src="https://github.com/user-attachments/assets/edcb93f6-0930-45bb-9e34-fc15ea2998c8" />
 
