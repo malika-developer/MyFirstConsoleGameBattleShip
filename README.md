@@ -4,7 +4,7 @@
 
 ---
 
-# 🚢 BattleShip — My First Console Game
+# 🚢 BattleShip — My First Console Game (2022-year project)
 
 **BattleShip** is a fully hand-crafted console game written in C++ using Visual Studio.  
 Everything — from ASCII graphics to menus, animations, and game logic — was built manually.
@@ -71,7 +71,7 @@ GitHub: https://github.com/malika-developer
 
 ---
 
-# 🚢 BattleShip — Моя первая консольная игра
+# 🚢 BattleShip — Моя первая консольная игра (проект 2022-ого года)
 
 **BattleShip** — моя первая полноценная консольная игра на C++, созданная полностью вручную:  
 ASCII-графика, меню, анимации, логика игры — всё написано мной с нуля.
